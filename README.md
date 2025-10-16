@@ -31,7 +31,7 @@ This project implements a Bayesian Neural Network to predict loan defaults while
     Weighted Avg: 0.95
 ```
 
-## 🏦 Business Applications
+##  Business Applications
 
 ### Three-Tier Decision Framework
 
@@ -64,7 +64,7 @@ Loan: $35K debt consolidation, 18.75% rate, 64% debt ratio
 Result: 99.91% default risk, HIGH confidence → REJECT
 ```
 
-## 🛠️ Technical Implementation
+##  Technical Implementation
 
 ### Dependencies
 ```python
