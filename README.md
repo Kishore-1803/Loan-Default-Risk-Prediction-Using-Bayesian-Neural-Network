@@ -2,18 +2,18 @@
 
 A robust loan default prediction system using Bayesian Neural Networks (BNN) that provides both predictions and uncertainty quantification for better risk assessment in financial lending.
 
-## 🎯 Project Overview
+##  Project Overview
 
 This project implements a Bayesian Neural Network to predict loan defaults while providing uncertainty estimates. Unlike traditional neural networks that give point predictions, BNNs provide probability distributions over predictions, enabling better risk management and decision-making in loan approval processes.
 
-## 🔥 Key Features
+##  Key Features
 
 - **Uncertainty Quantification**: Model provides confidence intervals for each prediction
 - **Robust Predictions**: Bayesian approach handles model uncertainty naturally
 - **Risk Assessment**: Different confidence levels for conservative vs aggressive lending strategies
 - **Comprehensive Evaluation**: Multiple metrics and visualizations for model assessment
 
-## 📊 Model Performance
+##  Model Performance
 
 ### Overall Metrics
 - **ROC AUC**: 0.97 (Excellent discrimination)
@@ -37,9 +37,9 @@ This project implements a Bayesian Neural Network to predict loan defaults while
 
 | Risk Level | Default Probability | Action | Confidence |
 |------------|-------------------|---------|------------|
-| **Low Risk** | < 15% | Auto-Approve ✅ | High |
-| **Medium Risk** | 15-35% | Manual Review ⚠️ | Variable |
-| **High Risk** | > 35% | Auto-Reject ❌ | High |
+| **Low Risk** | < 15% | Auto-Approve  | High |
+| **Medium Risk** | 15-35% | Manual Review  | Variable |
+| **High Risk** | > 35% | Auto-Reject  | High |
 
 ### Sample Predictions
 
@@ -92,7 +92,7 @@ seaborn>=0.11.0
 4. **Sampling**: Balanced training set with 10,000 samples
 5. **Train/Val Split**: 80/20 with stratification
 
-## 📈 Model Evaluation
+##  Model Evaluation
 
 ### ROC Curve Analysis
 - **AUC = 0.97**: Exceptional discrimination between classes
@@ -109,7 +109,7 @@ seaborn>=0.11.0
 - **Rare Uncertainty**: Few borderline cases require manual review
 - **Meaningful Doubt**: When model is uncertain, it's genuinely difficult cases
 
-## 🚀 Usage
+##  Usage
 
 ### Training the Model
 ```python
@@ -141,7 +141,7 @@ else:
     decision = "MANUAL_REVIEW"
 ```
 
-## 📁 Project Structure
+##  Project Structure
 ```
 ├── data/
 │   └── loan_data.csv           # Loan dataset
@@ -149,7 +149,7 @@ else:
 
 ```
 
-## 🔍 Key Insights
+##  Key Insights
 
 1. **Debt-to-Income Ratio**: Strongest predictor of default risk
 2. **Employment History**: Longer tenure reduces default probability  
@@ -159,7 +159,7 @@ else:
 
 ---
 
-## 📚 References
+##  References
 
 - [Bayesian Neural Networks in NumPyro](https://num.pyro.ai/)
 - [NUTS Sampler Documentation](https://mc-stan.org/docs/2_18/reference-manual/hmc-chapter.html)
