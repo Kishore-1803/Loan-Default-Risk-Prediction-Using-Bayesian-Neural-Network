@@ -165,5 +165,3 @@ else:
 - [NUTS Sampler Documentation](https://mc-stan.org/docs/2_18/reference-manual/hmc-chapter.html)
 - [Loan Default Prediction Best Practices](https://www.federalreserve.gov/publications/files/risk-management-at-banks-201612.pdf)
 ---
-
-**🎯 Built with Bayesian Neural Networks for robust loan default prediction with uncertainty quantification.**
