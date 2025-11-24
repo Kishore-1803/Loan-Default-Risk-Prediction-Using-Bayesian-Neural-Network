@@ -165,3 +165,13 @@ else:
 - [NUTS Sampler Documentation](https://mc-stan.org/docs/2_18/reference-manual/hmc-chapter.html)
 - [Loan Default Prediction Best Practices](https://www.federalreserve.gov/publications/files/risk-management-at-banks-201612.pdf)
 ---
+
+## Developers
+
+| Name             | GitHub Profile                                             |
+| ---------------- | ---------------------------------------------------------- |
+| **Kishore B**    | [github.com/Kishore-1803](https://github.com/Kishore-1803) |
+| **Naveen**       | [github.com/naveen-astra](https://github.com/naveen-astra) |
+| **Mendu**        | [github.com/mendu645](https://github.com/mendu645)         |
+| **Sai Charan M** | *(Profile not provided)*                                   |
+
