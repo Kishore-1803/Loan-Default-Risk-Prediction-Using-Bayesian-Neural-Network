@@ -166,12 +166,11 @@ else:
 - [Loan Default Prediction Best Practices](https://www.federalreserve.gov/publications/files/risk-management-at-banks-201612.pdf)
 ---
 
-## Developers
+## Contributors
 
-| Name             | GitHub Profile                                             |
-| ---------------- | ---------------------------------------------------------- |
-| **Kishore B**    | [github.com/Kishore-1803](https://github.com/Kishore-1803) |
-| **Naveen**       | [github.com/naveen-astra](https://github.com/naveen-astra) |
-| **Mendu**        | [github.com/mendu645](https://github.com/mendu645)         |
-| **Sai Charan M** | *(Profile not provided)*                                   |
+- **[Kishore B](https://github.com/Kishore-1803)**
+- **[Naveen](https://github.com/naveen-astra)**
+- **[Mendu](https://github.com/mendu645)**
+- **Sai Charan M** *(no GitHub link provided)*
+
 
