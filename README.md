@@ -169,8 +169,8 @@ else:
 ## Contributors
 
 - **[Kishore B](https://github.com/Kishore-1803)**
-- **[Naveen](https://github.com/naveen-astra)**
-- **[Mendu](https://github.com/mendu645)**
+- **[Naveen Babu M S](https://github.com/naveen-astra)**
+- **[Koushal Reddy M](https://github.com/mendu645)**
 - **Sai Charan M** *(no GitHub link provided)*
 
 
